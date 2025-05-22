@@ -1,0 +1,28 @@
+{
+    "output_formats": [
+        {
+            "display_name": "Daily Report",
+            "file_name": "daily_report"
+        },
+        {
+            "display_name": "Monthly Summary",
+            "file_name": "monthly_summary"
+        },
+        {
+            "display_name": "Transaction Data",
+            "file_name": "transaction_data"
+        },
+        {
+            "display_name": "Customer Information",
+            "file_name": "customer_data"
+        },
+        {
+            "display_name": "Sales Analysis",
+            "file_name": "sales_report"
+        },
+        {
+            "display_name": "Inventory Status",
+            "file_name": "inventory_report"
+        }
+    ]
+} 
